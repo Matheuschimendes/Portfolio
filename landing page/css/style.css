@@ -18,7 +18,7 @@ html{
 }
 /*Imagens de fundo da pagina, com opaco*/
 body{
-    background: linear-gradient(rgba(17,17,17, 0.2), rgba(20, 20, 20, 1)), url(https://matheuschimendes.github.io/Portfolio/landing page/img/banner.jpg);
+    background: linear-gradient(rgba(17,17,17, 0.2), rgba(20, 20, 20, 1)), url(https://matheuschimendes.github.io/Portfolio/landing%20page/img/banner.jpg);
     background-position:  center center ;
     background-size: cover;
     background-repeat: no-repeat;
