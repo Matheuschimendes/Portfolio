@@ -408,7 +408,7 @@ section .title::after{
 }
 .contact .title::after{
     content: "Entrar em contato";
-    background-color: #fff;
+    background: #111;
     
 }
 .contact .contact-content .column{
